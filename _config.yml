@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: General Statistics and its Applications
+title: Simple Obscure Statistics
 description: >- # this means to ignore newlines until "baseurl:"
-  In this site you will find the explanation of some general statistical concepts and its practical applications.
+  In this site you will find the explanation of some general statistical concepts and its practical applications. Many applications will use ecological data.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lumen-roses.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  lumen-roses
