@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Total Probability Theorem"
 date:   2022-05-10 15:59:06 -0500
 categories: jekyll update
 ---
